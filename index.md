@@ -1,3 +1,6 @@
+title: Welcome to Raffle703's homepage!
+description: Project Updates
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Raffle703/Raffle703.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
