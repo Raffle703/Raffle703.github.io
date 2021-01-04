@@ -1,4 +1,4 @@
-title: Welcome to Raffle703's homepage!
+#Welcome to Raffle703's homepage!
 description: Project Updates
 
 ## Welcome to GitHub Pages
